@@ -1,1 +1,2 @@
-# CPP_projects
+## CPP_projects
+These are just my projects in C++
